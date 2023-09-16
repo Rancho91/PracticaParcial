@@ -1,0 +1,10 @@
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\bin\Debug\EjercicioPreParcial.exe.config
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\bin\Debug\EjercicioPreParcial.exe
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\bin\Debug\EjercicioPreParcial.pdb
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.csproj.AssemblyReference.cache
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.Form1.resources
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.Properties.Resources.resources
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.csproj.GenerateResource.cache
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.exe
+C:\Users\ramir\source\repos\EjercicioPreParcial\EjercicioPreParcial\obj\Debug\EjercicioPreParcial.pdb
